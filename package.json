@@ -1,9 +1,9 @@
 {
   "name": "api-mock-portfolio",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "npx json-server --watch db.json"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -11,6 +11,6 @@
   "description": "",
   "dependencies": {
     "api-mock-portfolio": "file:",
-    "json-server": "^1.0.0-beta.2"
+    "json-server": "^1.0.0-beta.3"
   }
 }
