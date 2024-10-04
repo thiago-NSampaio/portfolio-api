@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "db": "json-server --watch db.json"
+    "start": "npx json-server --watch db.json"
   },
   "keywords": [],
   "author": "",
