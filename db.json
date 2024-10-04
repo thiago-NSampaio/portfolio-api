@@ -1,0 +1,58 @@
+{
+    "projects": [
+        {
+            "id": "af6637e8-79c5-422d-890c-4a6adf6d47fe",
+            "name": "Code-Flix",
+            "description": "Plataforma de streaming de vídeos com curadoria personalizada de conteúdos.",
+            "img": "https://i.imgur.com/RYeND3w.png",
+            "github": "https://github.com/thiago-NSampaio/codeFlix",
+            "deploy": "https://code-flix-indol.vercel.app/",
+            "techs":[]
+        },
+        {
+            "id": "54a78813-3b2f-4c73-af6a-ff1d2b8845ef",
+            "name": "Notes",
+            "description": "Aplicação web simples para salvar e organizar links úteis.",
+            "img": "https://i.imgur.com/vdKpHqH.png",
+            "github": "https://github.com/thiago-NSampaio/Notes",
+            "deploy": "https://notes-1qok.vercel.app/",
+            "techs":[]
+        },
+        {
+            "id": "2640a491-e705-4562-a169-aa22cccce225",
+            "name": "Plann-er",
+            "description": "Ferramenta de planejamento para viagens, com itinerários e gestão de tarefas.",
+            "img": "https://i.imgur.com/mabEfSJ.png",
+            "github": "https://github.com/thiago-NSampaio/plann.er",
+            "deploy": "https://plann-er-bay.vercel.app/",
+            "techs":[]
+        },
+        {
+            "id": "aaeda3c2-ffe7-4a3e-85fb-c4bf42191a70",
+            "name": "Shorts-summary",
+            "description": "Aplicação que gera resumos automáticos de vídeos curtos do YouTube (Shorts).",
+            "img": "https://i.imgur.com/MMtyYtH.png",
+            "github": "https://github.com/thiago-NSampaio/shortsSummary",
+            "deploy": "",
+            "techs":[]
+        },
+        {
+            "id": "779a5759-1571-41ff-9a92-e03fee77ae05",
+            "name": "Lol-champions",
+            "description": "Chatbot interativo utilizando IA para conversas com campeões de League of Legends.",
+            "img": "https://i.imgur.com/U7arK9v.png",
+            "github": "",
+            "deploy": "",
+            "techs":[]
+        },
+        {
+            "id": "eba2e36e-7a8d-4e10-b29a-f004e61bdbb2",
+            "name": "Todo-list",
+            "description": "Aplicação simples para gerenciar listas de tarefas e melhorar a produtividade.",
+            "img": "https://i.imgur.com/bP8u0Wl.png",
+            "github": "https://github.com/thiago-NSampaio/toDoList",
+            "deploy": "",
+            "techs":[]
+        }
+    ]
+}
