@@ -2,15 +2,16 @@
   "name": "api-mock-portfolio",
   "version": "1.0.0",
   "main": "server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "db": "json-server db.json"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "api-mock-portfolio": "file:",
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^0.17.3"
   }
 }
