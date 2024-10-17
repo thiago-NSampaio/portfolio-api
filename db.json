@@ -7,7 +7,14 @@
             "img": "https://i.imgur.com/RYeND3w.png",
             "github": "https://github.com/thiago-NSampaio/codeFlix",
             "deploy": "https://code-flix-indol.vercel.app/",
-            "techs":["ReactJS","TypeScript","Node.js","Jest","Next.js","Tailwindcss"]
+            "techs": [
+                {"name": "ReactJS", "color": "#61DAFB"},
+                {"name": "TypeScript", "color": "#3178C6"},
+                {"name": "Node.js", "color": "#339933"},
+                {"name": "Jest", "color": "#C21325"},
+                {"name": "Next.js", "color": "#000000"},
+                {"name": "Tailwindcss", "color": "#38B2AC"}
+            ]
         },
         {
             "id": "54a78813-3b2f-4c73-af6a-ff1d2b8845ef",
@@ -16,7 +23,16 @@
             "img": "https://i.imgur.com/vdKpHqH.png",
             "github": "https://github.com/thiago-NSampaio/Notes",
             "deploy": "https://notes-1qok.vercel.app/",
-            "techs":["JavaScript","Express.js","Node.js","ReactJS","Knex.js","Styled Components","Axios","SQLite"]
+            "techs": [
+                {"name": "JavaScript", "color": "#FFCD1E"},
+                {"name": "Express.js", "color": "#000000"},
+                {"name": "Node.js", "color": "#339933"},
+                {"name": "ReactJS", "color": "#61DAFB"},
+                {"name": "Knex.js", "color": "#234E52"},
+                {"name": "Axios", "color": "#5A29E4"},
+                {"name": "SQLite", "color": "#003B57"},
+                {"name": "Styled Components", "color": "#DB7093"}
+            ]
         },
         {
             "id": "2640a491-e705-4562-a169-aa22cccce225",
@@ -25,7 +41,16 @@
             "img": "https://i.imgur.com/g5cbkpt.png",
             "github": "https://github.com/thiago-NSampaio/plann.er",
             "deploy": "https://plann-er-bay.vercel.app/",
-            "techs":["TypeScript","ReactJS","Tailwindcss","Axios","Python","SQLAlchemy","Flask", "Cors"]
+            "techs": [
+                {"name": "TypeScript", "color": "#3178C6"},
+                {"name": "ReactJS", "color": "#61DAFB"},
+                {"name": "Axios", "color": "#5A29E4"},
+                {"name": "Python", "color": "#3776AB"},
+                {"name": "SQLAlchemy", "color": "#D61F29"},
+                {"name": "Flask", "color": "#000000"},
+                {"name": "Cors", "color": "#000000"},
+                {"name": "Tailwindcss", "color": "#38B2AC"}
+            ]
         },
         {
             "id": "aaeda3c2-ffe7-4a3e-85fb-c4bf42191a70",
@@ -34,7 +59,14 @@
             "img": "https://i.imgur.com/kEujNVG.png",
             "github": "https://github.com/thiago-NSampaio/shortsSummary",
             "deploy": "",
-            "techs":["Axios","Node.js","Cors","Express.js","Animejs","Models AI"]
+            "techs": [
+                {"name": "Axios", "color": "#5A29E4"},
+                {"name": "Node.js", "color": "#339933"},
+                {"name": "Cors", "color": "#000000"},
+                {"name": "Express.js", "color": "#000000"},
+                {"name": "Animejs", "color": "#FF748F"},
+                {"name": "Models AI", "color": "#FF4500"}
+            ]
         },
         {
             "id": "779a5759-1571-41ff-9a92-e03fee77ae05",
@@ -43,7 +75,15 @@
             "img": "https://i.imgur.com/U7arK9v.png",
             "github": "",
             "deploy": "",
-            "techs":["Java","Spring Boot","JDBC","H2","JavaScript","CSS","Bootstrap"]
+            "techs": [
+                {"name": "Java", "color": "#007396"},
+                {"name": "Spring Boot", "color": "#6DB33F"},
+                {"name": "JDBC", "color": "#1565C0"},
+                {"name": "H2", "color": "#007396"},
+                {"name": "JavaScript", "color": "#FFCD1E"},
+                {"name": "CSS", "color": "#1572B6"},
+                {"name": "Bootstrap", "color": "#7952B3"}
+            ]
         },
         {
             "id": "eba2e36e-7a8d-4e10-b29a-f004e61bdbb2",
@@ -52,7 +92,42 @@
             "img": "https://i.imgur.com/T88DstM.png",
             "github": "https://github.com/thiago-NSampaio/toDoList",
             "deploy": "",
-            "techs":["Node.js","JavaScript","Express.js","MongoDB","Mongoose","EJS","Bulma"]
+            "techs": [
+                {"name": "Node.js", "color": "#339933"},
+                {"name": "JavaScript", "color": "#FFCD1E"},
+                {"name": "Express.js", "color": "#000000"},
+                {"name": "MongoDB", "color": "#47A248"},
+                {"name": "Mongoose", "color": "#880000"},
+                {"name": "EJS", "color": "#A91E50"},
+                {"name": "Bulma", "color": "#00D1B2"}
+            ]
+        }
+    ],
+    "certificates":[
+        {
+            "id": "343433",
+            "name": "Formação React - Alura",
+            "src": "certificates/formacao-react-alura.jpeg"
+        },
+        {
+            "id": "34234",
+            "name": "nlw-pocket-full-stack-intermediario",
+            "src": "certificates/nlw-pocket-full-stack-intermediario.jpeg"
+        },
+        {
+            "id": "2233",
+            "name": "Iniciante programacao-alura",
+            "src": "certificates/Iniciante-programacao-alura.jpeg"
+        },
+        {
+            "id": "342422",
+            "name": "python fundamentos-dsa",
+            "src": "certificates/python-fundamentos-dsa.jpeg"
+        },
+        {
+            "id": "5464",
+            "name": "java jdk-curso",
+            "src": "certificates/java-jdk-curso.jpeg"
         }
     ]
 }
