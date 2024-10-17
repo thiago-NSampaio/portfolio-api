@@ -12,7 +12,7 @@
                 {"name": "TypeScript", "color": "#3178C6"},
                 {"name": "Node.js", "color": "#339933"},
                 {"name": "Jest", "color": "#C21325"},
-                {"name": "Next.js", "color": "#000000"},
+                {"name": "Next.js", "color": "#FFF"},
                 {"name": "Tailwindcss", "color": "#38B2AC"}
             ]
         },
@@ -25,9 +25,9 @@
             "deploy": "https://notes-1qok.vercel.app/",
             "techs": [
                 {"name": "JavaScript", "color": "#FFCD1E"},
-                {"name": "Express.js", "color": "#000000"},
                 {"name": "Node.js", "color": "#339933"},
                 {"name": "ReactJS", "color": "#61DAFB"},
+                {"name": "Express.js", "color": "#FFF"},
                 {"name": "Knex.js", "color": "#234E52"},
                 {"name": "Axios", "color": "#5A29E4"},
                 {"name": "SQLite", "color": "#003B57"},
@@ -47,8 +47,8 @@
                 {"name": "Axios", "color": "#5A29E4"},
                 {"name": "Python", "color": "#3776AB"},
                 {"name": "SQLAlchemy", "color": "#D61F29"},
-                {"name": "Flask", "color": "#000000"},
-                {"name": "Cors", "color": "#000000"},
+                {"name": "Flask", "color": "#FFF"},
+                {"name": "Cors", "color": "#FFF"},
                 {"name": "Tailwindcss", "color": "#38B2AC"}
             ]
         },
@@ -62,8 +62,8 @@
             "techs": [
                 {"name": "Axios", "color": "#5A29E4"},
                 {"name": "Node.js", "color": "#339933"},
-                {"name": "Cors", "color": "#000000"},
-                {"name": "Express.js", "color": "#000000"},
+                {"name": "Cors", "color": "#FFF"},
+                {"name": "Express.js", "color": "#FFF"},
                 {"name": "Animejs", "color": "#FF748F"},
                 {"name": "Models AI", "color": "#FF4500"}
             ]
@@ -95,7 +95,7 @@
             "techs": [
                 {"name": "Node.js", "color": "#339933"},
                 {"name": "JavaScript", "color": "#FFCD1E"},
-                {"name": "Express.js", "color": "#000000"},
+                {"name": "Express.js", "color": "#fff"},
                 {"name": "MongoDB", "color": "#47A248"},
                 {"name": "Mongoose", "color": "#880000"},
                 {"name": "EJS", "color": "#A91E50"},
