@@ -4,7 +4,7 @@
             "id": "af6637e8-79c5-422d-890c-4a6adf6d47fe",
             "name": "Codeflix",
             "description": "Plataforma de streaming de vídeos com curadoria personalizada de conteúdos.",
-            "img": "https://i.imgur.com/RYeND3w.png",
+            "img": "https://i.imgur.com/I3eHrrN.png",
             "github": "https://github.com/thiago-NSampaio/codeFlix",
             "deploy": "https://code-flix-indol.vercel.app/",
             "techs": [
@@ -20,7 +20,7 @@
             "id": "54a78813-3b2f-4c73-af6a-ff1d2b8845ef",
             "name": "Notes",
             "description": "Aplicação web simples para salvar e organizar links úteis.",
-            "img": "https://i.imgur.com/vdKpHqH.png",
+            "img": "https://i.imgur.com/2qVSW25.png",
             "github": "https://github.com/thiago-NSampaio/Notes",
             "deploy": "https://notes-1qok.vercel.app/",
             "techs": [
@@ -38,7 +38,7 @@
             "id": "2640a491-e705-4562-a169-aa22cccce225",
             "name": "Plann-er",
             "description": "Ferramenta de planejamento para viagens, com itinerários e gestão de tarefas.",
-            "img": "https://i.imgur.com/g5cbkpt.png",
+            "img": "https://i.imgur.com/NiFddXi.png",
             "github": "https://github.com/thiago-NSampaio/plann.er",
             "deploy": "https://plann-er-bay.vercel.app/",
             "techs": [
@@ -56,7 +56,7 @@
             "id": "aaeda3c2-ffe7-4a3e-85fb-c4bf42191a70",
             "name": "Shorts Summary",
             "description": "Aplicação que gera resumos automáticos de vídeos curtos do YouTube (Shorts).",
-            "img": "https://i.imgur.com/kEujNVG.png",
+            "img": "https://i.imgur.com/cGnAp5v.png",
             "github": "https://github.com/thiago-NSampaio/shortsSummary",
             "deploy": "",
             "techs": [
@@ -89,7 +89,7 @@
             "id": "eba2e36e-7a8d-4e10-b29a-f004e61bdbb2",
             "name": "Todo list",
             "description": "Aplicação simples para gerenciar listas de tarefas e melhorar a produtividade.",
-            "img": "https://i.imgur.com/T88DstM.png",
+            "img": "https://i.imgur.com/97bRTu9.png",
             "github": "https://github.com/thiago-NSampaio/toDoList",
             "deploy": "",
             "techs": [
@@ -105,29 +105,34 @@
     ],
     "certificates":[
         {
-            "id": "343433",
-            "name": "Formação React - Alura",
-            "src": "certificates/formacao-react-alura.jpeg"
+            "id": "7d658e2d-e12b-4b7c-aeb4-5572e4a907b2",
+            "name": "Formação React T4 - ONE",
+            "img": "",
+            "link":"https://cursos.alura.com.br/degree/certificate/d6dcef85-0915-41df-af1b-039757d2c8eb"
         },
         {
-            "id": "34234",
-            "name": "nlw-pocket-full-stack-intermediario",
-            "src": "certificates/nlw-pocket-full-stack-intermediario.jpeg"
+            "id": "99a530a8-e135-48ba-b555-5bfa0b31504d",
+            "name": "NLW Pocket Full Stack - Intermediário",
+            "img": "https://i.imgur.com/KEcry1w.jpg",
+            "link":"https://app.rocketseat.com.br/certificates/e46caeab-fe7c-4f43-9e64-a7ebd23b19ce"
         },
         {
-            "id": "2233",
-            "name": "Iniciante programacao-alura",
-            "src": "certificates/Iniciante-programacao-alura.jpeg"
+            "id": "03ba0f49-de94-447b-8a3f-8b0f8f551aa7",
+            "name": "FormaçãoIniciante em Programação T4 - ONE ",
+            "img": "",
+            "link":"https://cursos.alura.com.br/degree/certificate/6b07d8bf-5679-419a-b6ef-67aca716872b"
+        },
+     {
+            "id": "9523b03c-3a90-49fd-af7c-19c3ac60e68c",
+            "name": "Curso Online de PHP - PHP",
+            "img": "https://i.imgur.com/9ipDBjd.jpg",
+            "link":"https://app.rocketseat.com.br/certificates/0e1708fe-7785-4eba-9062-6bd5f86c0192"
         },
         {
-            "id": "342422",
-            "name": "python fundamentos-dsa",
-            "src": "certificates/python-fundamentos-dsa.jpeg"
-        },
-        {
-            "id": "5464",
-            "name": "java jdk-curso",
-            "src": "certificates/java-jdk-curso.jpeg"
+            "id": "857695cb-7382-45f3-b90f-636ec535e7dd",
+            "name": "NLW Journey",
+            "img": "",
+            "link":""
         }
     ]
 }
