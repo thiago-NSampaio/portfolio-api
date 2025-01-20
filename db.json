@@ -107,7 +107,7 @@
         {
             "id": "7d658e2d-e12b-4b7c-aeb4-5572e4a907b2",
             "name": "Formação React T4 - ONE",
-            "img": "",
+            "img": "https://i.imgur.com/xiwJiY1.png",
             "link":"https://cursos.alura.com.br/degree/certificate/d6dcef85-0915-41df-af1b-039757d2c8eb"
         },
         {
@@ -118,8 +118,8 @@
         },
         {
             "id": "03ba0f49-de94-447b-8a3f-8b0f8f551aa7",
-            "name": "FormaçãoIniciante em Programação T4 - ONE ",
-            "img": "",
+            "name": "Formação Iniciante em Programação T4 - ONE ",
+            "img": "https://i.imgur.com/v9Iz572.png",
             "link":"https://cursos.alura.com.br/degree/certificate/6b07d8bf-5679-419a-b6ef-67aca716872b"
         },
      {
@@ -131,7 +131,7 @@
         {
             "id": "857695cb-7382-45f3-b90f-636ec535e7dd",
             "name": "NLW Journey",
-            "img": "",
+            "img": "https://i.imgur.com/e4VoM34.jpeg",
             "link":"https://app.rocketseat.com.br/certificates/b7e5df5c-4b70-4875-a0a7-c0d4ea06abae"
         }
     ]
